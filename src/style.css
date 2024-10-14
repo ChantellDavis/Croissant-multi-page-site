@@ -1,0 +1,17 @@
+body {
+background-color: #B7E0DE;
+}
+
+h1 , 
+.main-paragraph{
+    background-color: white;
+}
+
+#nav-Color {
+    color: #F7F788;
+}
+
+.main-container ,.main-paragraph {
+padding: 50px
+}
+
